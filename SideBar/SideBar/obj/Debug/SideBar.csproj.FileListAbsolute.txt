@@ -1,0 +1,267 @@
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\SideBar.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\SideBar.pdb
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Antlr3.Runtime.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Newtonsoft.Json.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\System.Web.Optimization.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\WebGrease.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Antlr3.Runtime.pdb
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\Newtonsoft.Json.xml
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\bin\System.Web.Optimization.xml
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.csprojResolveAssemblyReference.cache
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.dll
+c:\users\pfennell\documents\visual studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.pdb
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\SideBar.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\SideBar.pdb
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Antlr3.Runtime.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Newtonsoft.Json.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\System.Web.Optimization.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\WebGrease.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Antlr3.Runtime.pdb
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\Newtonsoft.Json.xml
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\bin\System.Web.Optimization.xml
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.csprojResolveAssemblyReference.cache
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.dll
+C:\Users\pfennell\OneDrive - Aspen Grove\Documents\Visual Studio 2012\Projects\SideBar\SideBar\obj\Debug\SideBar.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\SideBar.dll.config
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\SideBar.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\SideBar.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Antlr3.Runtime.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Newtonsoft.Json.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\System.Web.Optimization.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\WebGrease.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Antlr3.Runtime.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Newtonsoft.Json.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\System.Web.Optimization.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\obj\Debug\SideBar.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\obj\Debug\SideBar.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\AjaxControlToolkit.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\AjaxMin.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\HtmlAgilityPack.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\System.Spatial.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\HtmlAgilityPack.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\HtmlAgilityPack.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\System.Spatial.xml
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\de\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\es\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\fr\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\it\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ja\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ko\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\ru\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\patrick\Documents\Visual Studio 2013\Projects\SideBar\SideBar\obj\Debug\SideBar.csprojResolveAssemblyReference.cache
+F:\Projects\SideBar\SideBar\bin\SideBar.dll.config
+F:\Projects\SideBar\SideBar\bin\SideBar.dll
+F:\Projects\SideBar\SideBar\bin\SideBar.pdb
+F:\Projects\SideBar\SideBar\bin\AjaxControlToolkit.dll
+F:\Projects\SideBar\SideBar\bin\AjaxMin.dll
+F:\Projects\SideBar\SideBar\bin\Antlr3.Runtime.dll
+F:\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.dll
+F:\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.dll
+F:\Projects\SideBar\SideBar\bin\Newtonsoft.Json.dll
+F:\Projects\SideBar\SideBar\bin\System.Spatial.dll
+F:\Projects\SideBar\SideBar\bin\System.Web.Optimization.dll
+F:\Projects\SideBar\SideBar\bin\WebGrease.dll
+F:\Projects\SideBar\SideBar\bin\Antlr3.Runtime.pdb
+F:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.pdb
+F:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.xml
+F:\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.xml
+F:\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.xml
+F:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.xml
+F:\Projects\SideBar\SideBar\bin\Newtonsoft.Json.xml
+F:\Projects\SideBar\SideBar\bin\System.Spatial.xml
+F:\Projects\SideBar\SideBar\bin\System.Web.Optimization.xml
+F:\Projects\SideBar\SideBar\bin\ar\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\cs\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\de\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\es\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\fr\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\he\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\hi\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\it\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\ja\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\ko\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\nl\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\pl\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\pt\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\ru\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\Projects\SideBar\SideBar\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Projects\SideBar\SideBar\bin\de\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\es\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\it\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Projects\SideBar\SideBar\bin\de\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\es\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\fr\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\it\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\ja\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\ko\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\ru\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hans\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\bin\zh-Hant\System.Spatial.resources.dll
+F:\Projects\SideBar\SideBar\obj\Debug\SideBar.csprojResolveAssemblyReference.cache
+F:\Projects\SideBar\SideBar\obj\Debug\SideBar.dll
+F:\Projects\SideBar\SideBar\obj\Debug\SideBar.pdb
+D:\Projects\SideBar\SideBar\bin\SideBar.dll.config
+D:\Projects\SideBar\SideBar\bin\SideBar.dll
+D:\Projects\SideBar\SideBar\bin\SideBar.pdb
+D:\Projects\SideBar\SideBar\bin\AjaxControlToolkit.dll
+D:\Projects\SideBar\SideBar\bin\AjaxMin.dll
+D:\Projects\SideBar\SideBar\bin\Antlr3.Runtime.dll
+D:\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projects\SideBar\SideBar\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Projects\SideBar\SideBar\bin\Newtonsoft.Json.dll
+D:\Projects\SideBar\SideBar\bin\System.Spatial.dll
+D:\Projects\SideBar\SideBar\bin\System.Web.Optimization.dll
+D:\Projects\SideBar\SideBar\bin\WebGrease.dll
+D:\Projects\SideBar\SideBar\bin\Antlr3.Runtime.pdb
+D:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.pdb
+D:\Projects\SideBar\SideBar\bin\HtmlAgilityPack.xml
+D:\Projects\SideBar\SideBar\bin\Microsoft.Data.Edm.xml
+D:\Projects\SideBar\SideBar\bin\Microsoft.Data.OData.xml
+D:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\Projects\SideBar\SideBar\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Projects\SideBar\SideBar\bin\Newtonsoft.Json.xml
+D:\Projects\SideBar\SideBar\bin\System.Spatial.xml
+D:\Projects\SideBar\SideBar\bin\System.Web.Optimization.xml
+D:\Projects\SideBar\SideBar\bin\ar\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\cs\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\de\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\es\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\fr\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\he\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\hi\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\it\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\ja\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\ko\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\nl\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\pl\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\pt\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\ru\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Projects\SideBar\SideBar\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\SideBar\SideBar\bin\de\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\es\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\it\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\SideBar\SideBar\bin\de\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\es\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\fr\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\it\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\ja\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\ko\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\ru\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hans\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\bin\zh-Hant\System.Spatial.resources.dll
+D:\Projects\SideBar\SideBar\obj\Debug\SideBar.csprojResolveAssemblyReference.cache
+D:\Projects\SideBar\SideBar\obj\Debug\SideBar.dll
+D:\Projects\SideBar\SideBar\obj\Debug\SideBar.pdb

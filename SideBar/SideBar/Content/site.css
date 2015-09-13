@@ -1,0 +1,87 @@
+
+.headerArea
+{
+	padding: .7em;
+	background-color: grey;
+	color: white;
+    font-size: large;
+}
+
+.container
+{
+	width: 95%;
+}
+
+.mainArea { 
+    margin-top: 0em;
+    margin-left: 10em;
+    margin-left: 0em;
+    padding-left: 1em;
+
+    /*used for fade out*/ 
+    transition: margin-left 0.5s linear;
+    -moz-transition: margin-left 0.5s linear;
+    -webkit-transition: margin-left 0.5s linear;
+
+}
+
+.sideBarWrapper {
+    position: absolute;
+    width: 12em;
+    height: 100%;
+    background-color: #000000;
+
+     /*used for fade out*/
+    left: 0em;
+    transition: left 0.5s linear;
+    -moz-transition: left 0.5s linear;
+    -webkit-transition: left 0.5s linear;
+}
+
+.sideBarNav { 
+    position: absolute;
+    top: 0;
+    width: 10em;
+    list-style: none;
+    text-decoration: none;
+    padding: 1em;
+}
+.sideBarNav li a {
+    color: #999999;
+    display: block;
+    text-decoration: none;
+    padding: 1em;
+}
+
+.sideBarNav li a:hover {
+    color: #fff;
+    background-color: gray;
+    text-decoration: none;
+}
+
+.sideBarNav li a:active,
+.sideBarNav li a:focus {
+    text-decoration: none;
+    color: red;
+}
+
+.sideBarNav .sideBarBrand {
+    margin-left: -.5em;
+    font-size: large;
+    color: white;
+}
+.sideBarNav .sideBarBrand a {
+    color: white;
+}
+
+ .sideBarNav .sideBarBrand a:hover{
+     color: #fff;
+     background: none;
+ }
+
+ .sideBarNavSecondLevel {
+     list-style: none;
+     margin-left: -2.5em;
+ }
+  
+ 

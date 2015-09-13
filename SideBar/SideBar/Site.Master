@@ -1,0 +1,168 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SideBar.Site" %>
+
+<%@ Register Src="~/logout.ascx" TagPrefix="uc1" TagName="logout" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="Scripts/bootstrap.min.js"></script>
+  
+    <link href="Style/jquery-ui.css" rel="stylesheet" />
+    <script src="Scripts/jquery-2.1.3.min.js"></script>
+    <script src="Scripts/jquery-ui-1.10.4.min.js"></script>
+    <script src="Scripts/store.min.js"></script>
+    <script src="Scripts/jquery-idelTimeout.min.js"></script>
+
+    <script type="text/javascript" charset="utf-8">
+
+        /*global $: false, jQuery: false, document: false, store: false, window: false, alert: false*/
+        /*jslint indent: 2, sloppy: true*/
+
+        $(document).ready(function () {
+
+            $(document).idleTimeout({
+                redirectUrl: 'logout.aspx',       // redirect to this url
+                idleTimeLimit: 15,            // 15 seconds 'No activity' time limit in seconds.
+                activityEvents: 'click keypress scroll wheel mousewheel',    // separate each event with a space
+                dialogDisplayLimit: 30,       // Time to display the warning dialog before logout (and optional callback) in seconds
+                sessionKeepAliveTimer: false  // Set to false to disable pings.
+            });
+            
+        });
+
+        var voluntaryLogoutOne = function () {
+            window.location.href = "logout.aspx";
+        };
+    </script>
+
+    <link href="Content/site.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+
+    <%-- media querie--%>
+    <style>
+        .sideBarNav span
+        {
+            display: inline-block;
+        }
+    
+        @media only screen and (max-width: 512px)
+        {
+            .sideBarWrapper
+            {
+                left: -8em;
+            }
+
+            .mainArea
+            {
+                margin-left: 3em;
+            }
+
+            .sideBarNav li a
+            {
+                padding-left: 8.3em;
+            }
+        }
+    </style>
+    <%-- Function only used if using a top and side menu--%>
+    <%--<script>
+        
+        
+        function getPageName(Url) {
+            var index = Url.lastIndexOf("/");
+            var filename = URL.substr(index) + 1;
+            return filename;
+        }
+
+        $(document).ready(function() {
+            var a = $("a href[='" + getPageName(window.location.pathname) + "']'");
+        //Sets the active class on the current menu item's parent <li>
+            a.parent().addClass("active");
+        //Sets the 'in' class in on the <li> parent's <ul> to expand the drop down
+            a.parent().parent().addClass("in");
+
+        });
+    </script>--%>
+    <meta name="description" content="The description of my page" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+
+ 
+<div class="row">
+    <div class="headerArea"></div>
+</div>  
+    <nav class="sideBarWrapper">
+        <ul class="sideBarNav">
+            <li class="sideBarBrand">
+                <a href="Default.aspx" class="visible-sm visible-md visible-lg">Menus</a>
+            </li>
+            <li>
+                <a href="/Default.ascx">
+                    <span class="visible-sm visible-md visible-lg">Home</span>
+                        <i class="glyphicon glyphicon-home visible-xs"></i>
+                </a>
+            </li>
+            <li>
+                <a href="Property.aspx" data-toggle="collapse" data-target="#ul">
+                    <span class="visible-sm visible-md visible-lg">Maintenance<b class="caret"></b></span>
+                    <i class="glyphicon glyphicon-tree-deciduous visible-xs"></i>
+                </a>
+                
+                <ul id="ul" class="collapse sideBarNavSecondLevel">
+                    <li>
+                        <a href="#">
+                            <span class="visible-sm visible-md visible-lg">Users</span>
+                        <i class="glyphicon glyphicon-home visible-xs"></i>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                            <span class="visible-sm visible-md visible-lg">Roles</span>
+                        <i class="glyphicon glyphicon-home visible-xs"></i>
+                        </a>
+                        
+                    </li>
+                    <li><a href="#">
+                            <span class="visible-sm visible-md visible-lg">Register</span>
+                        <i class="glyphicon glyphicon-home visible-xs"></i>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                        <span class="visible-sm visible-md visible-lg">Logout</span>
+                        <i class="glyphicon glyphicon-home visible-xs"></i>
+                    </a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="/Books.aspx">
+                    <span class="visible-sm visible-md visible-lg">Mail</span>
+                        <i class="glyphicon glyphicon-inbox visible-xs"></i>
+                </a>
+               
+            </li>
+            <li>
+                <a href="#">
+                    <span class="visible-sm visible-md visible-lg">Lookup</span>
+                        <i class="glyphicon glyphicon-search visible-xs"></i>
+                </a>
+               
+            </li>
+        </ul>
+    </nav>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+             
+        </asp:ContentPlaceHolder>
+            
+   
+    <asp:ContentPlaceHolder ID="EndContent" runat="server">
+        </asp:ContentPlaceHolder>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+﻿html, body {
+    min-height: 100%;
+    background: -webkit-gradient(linear, 0 50%, 0 100%, from(white), to(lightblue));
+
+background: -webkit-linear-gradient(top, white, white, lightblue);
+background: -moz-linear-gradient(top, white, white, lightblue);
+background: -o-linear-gradient(top, white, white, lightblue);
+background: -ms-linear-gradient(top, white, white, lightblue);
+
+background: linear-gradient(to bottom, white, white, lightblue);
+}
+
+ .main {
+     padding-top: 0em;
+     padding-left: 12em;
+ }   
+
+.sideBarWrapper {
+     height: 75%;
+     width: 12em;
+     margin-top: 2em;
+     margin-left: 1em;
+     padding: 5em 1em 1em 0;
+     -webkit-border-radius: 0.6em;
+     -moz-border-radius: 0.6em;
+     border-radius: 0.6em;
+     background-color: #000000;
+ }
+
+ .sideBarNav {
+     list-style: none;
+     text-decoration: none;
+     padding-bottom: 1em;
+     -webkit-border-radius: 0.6em;
+     -moz-border-radius: 0.6em;
+     border-radius: 0.6em;
+ }
